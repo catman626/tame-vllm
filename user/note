@@ -1,0 +1,3 @@
+keep reporting bug
+- 一个 创建子进程相关的 error
+在调用vllm 的代码位置，包上 if __name__ == "__main__"
